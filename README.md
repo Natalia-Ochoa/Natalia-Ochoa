@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola! Soy Natalia Ochoa 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Web+Developer+%7C+PHP+%2F+React+%2F+TypeScript;Learning+Data+Engineering+with+Python" alt="Typing animation" />
-</p>
+
 
 # 💫 About Me
 
